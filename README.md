@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Jasper
+
+- I work on AI applications that are (hopefully) one or more of useful, dangerous, or creative
 
 <!--
 **jagilley/jagilley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
