@@ -2,6 +2,9 @@
 
 - I work on AI applications that are (hopefully) one or more of useful, dangerous, or creative
 
+Links:
+- 🐦 [Twitter](https://twitter.com/0xjasper)
+
 <!--
 **jagilley/jagilley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
